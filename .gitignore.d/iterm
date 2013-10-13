@@ -1,6 +1,6 @@
 *
 !.gitignore.d
-!.gitignore.d/itermfiles
+!.gitignore.d/iterm
 !Library
 !Library/Preferences
 !Library/Preferences/com.googlecode.iterm2.plist
